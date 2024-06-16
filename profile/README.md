@@ -20,7 +20,7 @@ Contact us and contribute to our projects 👥
 
 <center>
     <a href="https://ciic.ipleiria.pt/">
-        <img src="../assets/CIIC_CT_logo_v2.png" width="600px" alt="CIIC CT Logo"/>
+        <img src="../assets/CIIC_CT_logo_v2.png" width="800px" alt="CIIC CT Logo"/>
     </a>
 </center>
 
