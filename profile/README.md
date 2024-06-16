@@ -1,18 +1,27 @@
 ## Computer Science and Communication Research Centre (**CIIC**) - C&T Code Repository
 
-🏢[CIIC](https://ciic.ipleiria.pt/) serves as a dedicated research center at the Polytechnic of Leiria, specializing in applied research across four main areas:
+🏢 CIIC is a dedicated research center at the Polytechnic of Leiria, specializing in:
 
-- Computational Intelligence and Optimization
-- Communications and Telematics
-- Computer Graphics and Multimedia Research 
-- Smart IoT Ecosystems
+### Research Areas
 
-🤝 We intend to make it easy to share, find, and collaborate with projects developed at CIIC.
+• **Computational Intelligence and Optimization** 💻  
+• **Communications and Telematics** 📱  
+• **Computer Graphics and Multimedia Research** 🎨  
+• **Smart IoT Ecosystems** 🤖  
 
-🔬 This group is also a venue to create useful resources for present and future projects.
+### Our Objectives
 
-👥 Please feel free to contact us and contribute.
+• **Collaboration**: Share, find, and collaborate on CIIC projects 🤝  
+• **Resource Hub**: Create useful resources for present and future projects 🔬  
 
-<p align="center">
-<img src="assets/CIIC_CT_logo.png" width="800px"/>
-</p>
+### **Get Involved**
+
+Contact us and contribute to our projects 👥
+
+<center>
+    <a href="https://ciic.ipleiria.pt/">
+        <img src="../assets/CIIC_CT_logo_v2.png" width="600px" alt="CIIC CT Logo"/>
+    </a>
+</center>
+
+
