@@ -9,6 +9,8 @@
 • **Computer Graphics and Multimedia Research** 🎨  
 • **Smart IoT Ecosystems** 🤖  
 
+### This repository refers to some projects from the **Communications and Telematics** group 
+
 ### Our Objectives
 
 • **Collaboration**: Share, find, and collaborate on CIIC projects 🤝  
