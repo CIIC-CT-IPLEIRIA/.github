@@ -4,7 +4,7 @@
 
 • Computational Intelligence and Optimization   
 • Communications and Telematics
-• Computer Graphics and Multimedia Research  
+• Computer Graphics and Multimedia Research
 • Smart IoT Ecosystems
 
 ### This repository refers to some projects from the **Communications and Telematics** group 
