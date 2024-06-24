@@ -3,9 +3,9 @@
 🏢 CIIC is a dedicated research center at the Polytechnic of Leiria, specializing in four research areas:
 
 • Computational Intelligence and Optimization   
-• Communications and Telematics
-• Computer Graphics and Multimedia Research
-• Smart IoT Ecosystems
+• Communications and Telematics   
+• Computer Graphics and Multimedia Research   
+• Smart IoT Ecosystems   
 
 ### This repository refers to some projects from the **Communications and Telematics** group 
 
