@@ -1,4 +1,4 @@
-## Computer Science and Communication Research Centre (CIIC) - 🌐 C&T Group Repository
+## Computer Science and Communication Research Centre (🏢 CIIC) - 🌐 C&T Group Repository
 
 🏢 CIIC is a dedicated research center at the Polytechnic of Leiria, specializing in four research areas:
 
@@ -11,8 +11,8 @@
 
 ### Our Objectives
 
-• **Collaboration**: Share, find, and collaborate on CIIC projects 🤝  
-• **Resource Hub**: Create useful resources for present and future projects 🔬  
+• 🤝 **Collaboration**: Share, find, and collaborate on CIIC projects   
+• 🔬 **Resource Hub**: Create useful resources for present and future projects   
 
 ### **Get Involved**
 
