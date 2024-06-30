@@ -5,7 +5,7 @@
 • &nbsp; **∂**  &nbsp;Computational Intelligence and Optimization   
 • 🌐 **Communications and Telematics (C&T)**    
 • 📚 Computer Graphics and Multimedia Research  
-• 🖧  &nbsp;Smart IoT Ecosystems
+•  &nbsp;🖧  &nbsp;Smart IoT Ecosystems
 
 **⇢** This repository refers to some 🌐 **Communications and Telematics (C&T)** Group projects. 
 
