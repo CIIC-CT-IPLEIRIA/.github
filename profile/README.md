@@ -1,9 +1,9 @@
 ## Computer Science and Communication Research Centre (CIIC) - Communications & Telematics (C&T) Group Repository
 
-Welcome to the **Communications & Telematics (C&T) Group** repository within the Computer Science and Communication Research Centre (CIIC) at the Polytechnic University of Leiria! This repository highlights select projects by our C&T team, focusing on advancing knowledge and innovation in:
+Welcome to the **Communications & Telematics (C&T)** Group repository, part of the Computer Science and Communication Research Centre (CIIC) at the Polytechnic University of Leiria! CIIC is a dedicated research center specializing in advancing knowledge and innovation across four key areas:
 
 - Computational Intelligence and Optimization
-- Communications and Telematics (C&T)
+- **_Communications and Telematics (C&T)_**
 - Computer Graphics and Multimedia Research
 - Smart IoT Ecosystems
 
