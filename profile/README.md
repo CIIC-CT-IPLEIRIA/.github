@@ -1,22 +1,26 @@
-## Computer Science and Communication Research Centre (🏢 CIIC) - 🌐 C&T Group Repository
+## Computer Science and Communication Research Centre (CIIC) - Communications & Telematics (C&T) Group Repository
 
-🏢 CIIC is a dedicated research center at the Polytechnic of Leiria, specializing in four research areas:
+Welcome to the **Communications & Telematics (C&T) Group** repository within the Computer Science and Communication Research Centre (CIIC) at the Polytechnic University of Leiria! This repository highlights select projects by our C&T team, focusing on advancing knowledge and innovation in:
 
-• &nbsp; **∂**  &nbsp;Computational Intelligence and Optimization   
-• 🌐 **Communications and Telematics (C&T)**    
-• 📚 Computer Graphics and Multimedia Research  
-•  &nbsp;🖧  &nbsp;Smart IoT Ecosystems
+- Computational Intelligence and Optimization
+- Communications and Telematics (C&T)
+- Computer Graphics and Multimedia Research
+- Smart IoT Ecosystems
 
-**⇢** This repository refers to some 🌐 **Communications and Telematics (C&T)** Group projects. 
+### Objectives
 
-### Our Objectives
+Our mission is to foster collaboration, provide resources, and advance research in Communications and Telematics. Specifically, we aim to:
 
-• 🤝 **Collaboration**: Share, find, and collaborate on CIIC projects   
-• 🔬 **Resource Hub**: Create useful resources for present and future projects   
+- **Facilitate Collaboration**: Connect, share, and collaborate on CIIC projects to achieve collective progress.
+- **Build a Resource Hub**: Assemble and maintain resources that benefit current and future research endeavors. 
 
-### **Get Involved**
+### Getting Involved
 
-Contact us and contribute to our projects 👥
+Interested in joining or contributing to our projects? We welcome researchers, collaborators, and innovators to help us push the boundaries of our research.
+
+For more information, visit our <a href="https://ciic.ipleiria.pt/" target="_blank">CIIC website</a>.
+
+---
 
 <center>
     <a href="https://ciic.ipleiria.pt/">
