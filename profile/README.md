@@ -9,7 +9,7 @@ Welcome to the **Communications & Telematics (C&T)** Group repository, part of t
 
 ### Objectives
 
-Our mission is to foster collaboration, provide resources, and advance research in Communications and Telematics. Specifically, we aim to:
+Our mission is to foster collaboration, provide essential resources, and advance scientific research, promoting innovation, efficiency, and groundbreaking discoveries through interdisciplinary and international partnerships. Specifically, we aim to:
 
 - **Facilitate Collaboration**: Connect, share, and collaborate on CIIC projects to achieve collective progress.
 - **Build a Resource Hub**: Assemble and maintain resources that benefit current and future research endeavors. 
