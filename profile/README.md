@@ -22,10 +22,8 @@ For more information, visit our <a href="https://ciic.ipleiria.pt/" target="_bla
 
 ---
 
-<center>
+<p align="center">
     <a href="https://ciic.ipleiria.pt/">
-        <img src="../assets/CIIC-Horizontal.png" width="80%" alt="CIIC LOGO"/>
+        <img src="../assets/CIIC-Horizontal.png" width="60%" alt="CIIC LOGO"/>
     </a>
-</center>
-
-
+</p>
