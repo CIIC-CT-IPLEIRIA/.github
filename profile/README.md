@@ -20,12 +20,10 @@ Interested in joining or contributing to our projects? We welcome researchers, c
 
 For more information, visit our <a href="https://ciic.ipleiria.pt/" target="_blank">CIIC website</a>.
 
----
-
+<!---
 <p align="center">
     <a href="https://ciic.ipleiria.pt/">
         <img src="../assets/CIIC-Horizontal.png" width="55%" alt="CIIC LOGO"/>
     </a>
 </p>
-
----
+-->
